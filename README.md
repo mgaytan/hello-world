@@ -1,2 +1,3 @@
 # hello-world
-First repository
+
+Nothing to see here! Just learning about branches and whatnot.
